@@ -39,13 +39,10 @@ layout: default
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
+    <div class="social">
+      <div class="contact-icons">{% include social.liquid %}</div>
+    </div>
 
-    {%- assign social_insert_point = "Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them." -%}
-    {%- if page.content contains social_insert_point -%}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-      </div>
-    {%- endif -%}
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
