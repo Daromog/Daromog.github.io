@@ -27,8 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm an PhD student in Computer Vision at [MBZUAI](https://mbzuai.ac.ae/)
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm an PhD student in Computer Vision at [MBZUAI](https://mbzuai.ac.ae/), working with [Ivan Laptev](https://www.di.ens.fr/~laptev/). Previously I worked with [Thamar Solorio](http://solorio.uh.edu/) at the [Ritual Lab](https://ritual-mbzuai.github.io/web/) in Vision-Language models. Before that, I worked NLP and Speech processing topics at the [Ixa Research Group](https://www.ehu.eus/es/) at the University of the Basque Country with Eneko Agirre (https://eagirre.github.io/) and at the Universidad Politecnica de Madrid, working with [Luis Fernando D'Haro] (https://blogs.upm.es/gthau/luis-fernando-dharo/).
+
+My current research is focused on large-scale difussion models for world modeling and its applications for Embodied AI. I'm also interested in Vision-Language Models for Video Understanding.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
