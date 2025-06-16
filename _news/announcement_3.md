@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+[Q-ViD](https://aclanthology.org/2024.findings-acl.555.pdf) has been accepted to ACL-Findings 2024.
