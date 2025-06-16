@@ -440,16 +440,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-q-vid-has-been-accepted-to-acl-findings-2024",
+          title: 'Q-ViD has been accepted to ACL-Findings 2024.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-started-my-phd-at-mbzuai",
+          title: 'I started my PhD at MBZUAI.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-cvqa-has-been-accepted-to-neurips-2024-datasets-and-benchmarks-as-an-oral-paper",
+          title: 'CVQA has been accepted to Neurips 2024 Datasets and Benchmarks as an ORAL...',
+          description: "",
+          section: "News",},{id: "news-i-ve-joined-the-ritual-lab-to-work-with-thamar-solorio",
+          title: 'I’ve joined the Ritual Lab to work with Thamar Solorio.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
