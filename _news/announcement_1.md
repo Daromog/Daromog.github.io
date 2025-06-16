@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-10-01 15:59:00-0400
+date: 2022-10-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-CVQA has been accepted to [Neurips](https://neurips.cc/virtual/2024/oral/98024) 2024 Datasets and Benchmarks as an ORAL paper.
+My [paper](https://ieeexplore.ieee.org/document/9746459) has been acepted at ICASSP 2022.
