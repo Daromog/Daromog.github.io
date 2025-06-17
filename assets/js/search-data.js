@@ -383,7 +383,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-won-the-hap-lap-scholarship-given-by-the-ixa-research-group-at-the-university-of-the-basque-country",
           title: 'I won the HAP-LAP scholarship given by the Ixa Research Group at the...',
           description: "",
-          section: "News",},{id: "news-i-am-one-of-the-authors-of-a-book-called-tos-por-covid-19-caracterización-desde-la-inteligencia-artificial-that-recently-came-out-amp-lt-div-amp-gt",
+          section: "News",},{id: "news-i-am-one-of-the-authors-of-a-book-called-tos-por-covid-19-caracterización-desde-la-inteligencia-artificial-that-recently-came-out",
           title: 'I am one of the authors of a book called “Tos por COVID-19....',
           description: "",
           section: "News",},{id: "news-i-ve-joined-the-ritual-lab-to-work-with-thamar-solorio",
