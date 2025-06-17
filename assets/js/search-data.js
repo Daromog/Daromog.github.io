@@ -377,8 +377,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-paper-has-been-acepted-at-icassp-2022",
-          title: 'My paper has been acepted at ICASSP 2022.',
+            },},{id: "news-my-paper-has-been-acepted-to-icassp-2022",
+          title: 'My paper has been acepted to ICASSP 2022.',
           description: "",
           section: "News",},{id: "news-i-won-the-hap-lap-scholarship-given-by-the-ixa-research-group-at-the-university-of-the-basque-country",
           title: 'I won the HAP-LAP scholarship given by the Ixa Research Group at the...',
