@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My [paper](https://ieeexplore.ieee.org/document/9746459) has been acepted at ICASSP 2022.
+My [paper](https://ieeexplore.ieee.org/document/9746459) has been acepted to ICASSP 2022.
