@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk on CVQA at the Adapt Centre, School of Computing, Dublin City University.
+I gave a talk on CVQA at the [Adapt Centre](https://www.adaptcentre.ie/), School of Computing, Dublin City University.
