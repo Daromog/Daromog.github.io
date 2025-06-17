@@ -454,21 +454,21 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%64%61%76%69%64.%72%6F%6D%65%72%6F@%6D%62%7A%75%61%69.%61%63.%61%65", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/Daromog", "_blank");
+          window.open("https://github.com/Daromog", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/http://linkedin.com/in/daromog", "_blank");
+          window.open("https://www.linkedin.com/in/daromog", "_blank");
         },
       },{
         id: 'social-scholar',
