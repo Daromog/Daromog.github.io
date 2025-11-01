@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: foto_perfil.jpg
+  image: foto_neurips.jpeg
   image_circular: false # crops the image to make it circular
   more_info: 
 
