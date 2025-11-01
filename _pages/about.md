@@ -26,4 +26,4 @@ latest_posts:
 
 I'm a PhD student in Computer Vision at [MBZUAI](https://mbzuai.ac.ae/), working with [Ivan Laptev](https://www.di.ens.fr/~laptev/). Previously I worked with [Thamar Solorio](http://solorio.uh.edu/) at the [Ritual Lab](https://ritual-mbzuai.github.io/web/) in Vision-Language models. Before that, I worked in NLP and Speech processing topics at the [Ixa Research Group](https://www.ehu.eus/es/) at the University of the Basque Country, working with [Eneko Agirre](https://eagirre.github.io/) and at the Universidad Politecnica de Madrid with [Luis Fernando D'Haro](https://blogs.upm.es/gthau/luis-fernando-dharo/). I am an Electronic Engineer and I'm originally from Ecuador 🇪🇨.
 
-My current research is focused on large-scale difussion models for world modeling and its applications for Embodied AI. I'm also interested in Vision-Language Models for Video Understanding.
+My current research is focused on large-scale difussion models for world modeling. I'm also interested in Vision-Language Models for Video Understanding.
