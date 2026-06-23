@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-KineMask has been accepted to ECCV 2026.
+[KineMask](https://daromog.github.io/KineMask/) has been accepted to [ECCV](https://eccv.ecva.net/)(European Conference on Computer Vision) 2026 - Malmö, Sweden.
